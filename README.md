@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/aashrithar21/LEETCODE/tree/master/0069-sqrtx) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aashrithar21/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aashrithar21/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
@@ -38,9 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/aashrithar21/LEETCODE/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/aashrithar21/LEETCODE/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/aashrithar21/LEETCODE/tree/master/0217-contains-duplicate) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/aashrithar21/LEETCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
