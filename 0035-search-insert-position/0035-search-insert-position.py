@@ -15,7 +15,7 @@ class Solution(object):
         if nums > target:
             return low
         else :
-            return len(nums)
+            return high
             
             
         
