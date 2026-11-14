@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/aashrithar21/LEETCODE/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/aashrithar21/LEETCODE/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/aashrithar21/LEETCODE/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/aashrithar21/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/aashrithar21/LEETCODE/tree/master/0283-move-zeroes) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/aashrithar21/LEETCODE/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/aashrithar21/LEETCODE/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/aashrithar21/LEETCODE/tree/master/0704-binary-search) |
 ## Hash Table
