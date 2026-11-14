@@ -1,0 +1,17 @@
+class Solution(object):
+    def intersection(self, nums1, nums2):
+        """
+        :type nums1: List[int]
+        :type nums2: List[int]
+        :rtype: List[int]
+        """
+        n1 = set(nums1)
+        n2 = set(nums2)
+
+        r = n1 & n2
+        result = list (r)
+        return result
+
+
+            
+                
