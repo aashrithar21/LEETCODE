@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/aashrithar21/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aashrithar21/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aashrithar21/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/aashrithar21/LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Sorting
 |  |
 | ------- |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aashrithar21/LEETCODE/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/aashrithar21/LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
+## Sliding Window
+|  |
+| ------- |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/aashrithar21/LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
